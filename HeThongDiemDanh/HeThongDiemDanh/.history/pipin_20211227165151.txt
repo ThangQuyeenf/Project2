@@ -1,0 +1,7 @@
+mysql
+mysql.connector
+opencv-python
+Pillow
+numpy
+tk
+tkcalendar
